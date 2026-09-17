@@ -1,5 +1,5 @@
 # econophysics-in-financial-markets
-**How to download zipped file of github repository:** Go to green "Code" button ➜ Download ZIP.
+**How to download:** Go to green "Code" button ➜ Download ZIP.
 
 🤓 Please refer to the 15-page report `github_Report.pdf` for the methodology, discussion of results, and conclusions.
 
