@@ -1,1 +1,1 @@
-# econophysics
+# econophysics-in-financial-markets
