@@ -1,7 +1,7 @@
 # econophysics-in-financial-markets
 **How to download the report:** Go to green "Code" button ➜ Download ZIP.
 
-🤓 Please refer to the 15-page report `github_Report.pdf` for the methodology, discussion of results, and conclusions.
+🤓 Please refer to the 15-page report `Report.pdf` for the methodology, discussion of results, and conclusions.
 
 💻 The code utilised for my analysis is contained in the `.ipynb` files.
 
